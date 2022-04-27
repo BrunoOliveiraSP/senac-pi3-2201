@@ -2,7 +2,7 @@
 import './index.scss'
 
 export default function Index() {
-
+    let a;
     return (
         <div className='pagina-contato'>
             <h1 className='titulo'> Contato </h1>
